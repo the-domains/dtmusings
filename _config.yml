@@ -1,0 +1,14 @@
+layout_spectrum: 0.3432394720148295
+typography_spectrum: 0.6227886890992522
+color:
+  brandStrength: 0.9526124007534236
+  lightness: 0.6611388155724853
+  saturation: 0.4866863328497857
+  rhythmicContrast: 0.005650908453390002
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: DTMusings
