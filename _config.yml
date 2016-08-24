@@ -6,9 +6,9 @@ color:
   saturation: 0.4866863328497857
   rhythmicContrast: 0.005650908453390002
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#BFD1DA'
+    - '#FF1E2B'
+    - '#8A999A'
+    - '#001F32'
+    - '#774432'
 name: DTMusings
